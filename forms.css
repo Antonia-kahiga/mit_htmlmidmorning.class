@@ -1,0 +1,19 @@
+hi{
+  font-weight: bold;
+  font-family: cursive;
+}
+label{
+  font-family: cursive;
+  color: blue;
+  margin: 4px 8px;
+  font-size: larger;
+  padding: 2px 4px;
+  text-align: center;
+}
+input{
+  box-shadow: 4px;
+  background-color: lightgrey;
+}
+form{
+  text-align: center;
+}

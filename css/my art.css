@@ -1,0 +1,32 @@
+.cartoon-body{
+  background-image: url("");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Navigation-body{
+  display: flex;
+}
+.left-Navigation-body{
+  width:50%;
+  padding-left:20px;
+}
+.right-Navigation-body{
+  display: flex;
+  width:50%;
+  align-items: center;
+  justify-content:space-around;
+}
+.right-Navigation-body button{
+  width: 100px;
+  margin-left:50px;
+  color: black;
+}
+.right-Navigation-body img{
+  width:60px;
+  height:60px;
+  border-radius:100px;
+  margin-left:10px;
+}
+
+
+
